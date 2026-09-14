@@ -1,0 +1,43 @@
+h1 {
+	padding-left: 60px;
+	color: red;
+}
+
+b {
+	padding-left: 20px;
+	color: blue;
+}
+
+i {
+	padding-left: 20px;
+	color: green;
+}
+
+u {
+	padding-left: 20px;
+	color: purple;
+}
+
+.special {
+	font-weight: 1000;
+	color: red;
+}
+
+.teste {
+	padding-left: 100px;
+	background-color: purple;
+	color: orange;
+}
+
+label {
+	padding-left: 100px;
+}
+
+.range {
+	width: 1000px;
+	color: green;
+}
+
+.image {
+	padding-left: 100px;
+}
