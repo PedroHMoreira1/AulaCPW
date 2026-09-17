@@ -29,7 +29,7 @@ u {
 	color: orange;
 }
 
-label {
+label, .image {
 	padding-left: 100px;
 }
 
@@ -38,6 +38,10 @@ label {
 	color: green;
 }
 
-.image {
-	padding-left: 100px;
+
+.block {
+	color: orange;
+	background-color: grey;
+	width: 400px;
+	height: auto;
 }
